@@ -27,6 +27,16 @@ Focus:
 
 ---
 
+### SOE_IME_OPEN (Decode-focused Language System)
+https://github.com/galaxy4552/SOE_IME_OPEN/
+
+Focus:
+- Decode-oriented language behavior
+- Lexical + semantic fusion
+- Minimal, interpretable decision pipelines
+
+---
+
 ## 🧠 Interests
 
 - Cognitive architectures
