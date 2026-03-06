@@ -17,6 +17,7 @@ Focus:
 ## Pipeowl Model
 ### 🤗 Model on Hugging Face
 - [pipeowl: https://huggingface.co/WangKaiLin/pipeowl](https://huggingface.co/WangKaiLin/PipeOwl)
+- [pipeowl1.2: https://huggingface.co/WangKaiLin/pipeowl1.2](https://huggingface.co/WangKaiLin/PipeOwl-1.2)
 ---
 ### Pipowl (SBERT / Embedding Systems)
 https://github.com/galaxy4552/Pipowl/
