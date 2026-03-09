@@ -16,16 +16,13 @@ Focus:
 ---
 ## Pipeowl Model
 ### 🤗 Model on Hugging Face
+
+- [pipeowl-1.4-multilingual: https://huggingface.co/WangKaiLin/pipeowl-1.4-multilingual](https://huggingface.co/WangKaiLin/PipeOwl-1.4-multilingual)
 - [pipeowl1.2: https://huggingface.co/WangKaiLin/pipeowl1.2](https://huggingface.co/WangKaiLin/PipeOwl-1.2)
 - [pipeowl: https://huggingface.co/WangKaiLin/pipeowl](https://huggingface.co/WangKaiLin/PipeOwl)
 ---
-### Pipowl (SBERT / Embedding Systems)
+### Pipowl (minimal-SBERT / Embedding Systems)
 https://github.com/galaxy4552/Pipowl/
-
-Focus:
-- Semantic embedding architectures
-- Meaning-space modeling
-- Representation stability
 ---
 ### SOE_IME_OPEN (Decode-focused Language System)
 https://github.com/galaxy4552/SOE_IME_OPEN/
