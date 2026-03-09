@@ -22,7 +22,7 @@ Focus:
 - [pipeowl: https://huggingface.co/WangKaiLin/pipeowl](https://huggingface.co/WangKaiLin/PipeOwl)
 ---
 ### Pipowl (minimal-SBERT / Embedding Systems)
-https://github.com/galaxy4552/Pipowl/
+- https://github.com/galaxy4552/Pipowl/
 ---
 ### SOE_IME_OPEN (Decode-focused Language System)
 https://github.com/galaxy4552/SOE_IME_OPEN/
