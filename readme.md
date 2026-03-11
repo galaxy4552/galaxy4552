@@ -17,6 +17,7 @@ Focus:
 ## Pipeowl Model
 ### 🤗 Model on Hugging Face
 
+- [pipeowl-1.5-jp: https://huggingface.co/WangKaiLin/PipeOwl-1.5-jp](https://huggingface.co/WangKaiLin/PipeOwl-1.5-jp)
 - [pipeowl-1.4-multilingual: https://huggingface.co/WangKaiLin/pipeowl-1.4-multilingual](https://huggingface.co/WangKaiLin/PipeOwl-1.4-multilingual)
 - [pipeowl1.2: https://huggingface.co/WangKaiLin/pipeowl1.2](https://huggingface.co/WangKaiLin/PipeOwl-1.2)
 - [pipeowl: https://huggingface.co/WangKaiLin/pipeowl](https://huggingface.co/WangKaiLin/PipeOwl)
@@ -25,12 +26,7 @@ Focus:
 - https://github.com/galaxy4552/Pipowl/
 ---
 ### SOE_IME_OPEN (Decode-focused Language System)
-https://github.com/galaxy4552/SOE_IME_OPEN/
-
-Focus:
-- Decode-oriented language behavior
-- Lexical + semantic fusion
-- Minimal, interpretable decision pipelines
+- https://github.com/galaxy4552/SOE_IME_OPEN/
 ---
 ## 🧠 Interests
 
