@@ -20,17 +20,3 @@
 
 ### Pipeowl Model
 #### 🤗 Model on Hugging Face - [https://huggingface.co/WangKaiLin](https://huggingface.co/WangKaiLin)
-
-### Pipowl (minimal-SBERT / Embedding Systems)
-- https://github.com/galaxy4552/Pipowl/
-
-### SOE_IME_OPEN (Decode-focused Language System)
-- https://github.com/galaxy4552/SOE_IME_OPEN/
-  
-### 🧠 Interests
-
-- Cognitive architectures
-- Field-based reasoning systems
-- AI safety & failure modes
-- Semantic time vs real time
-- Non-standard inference
