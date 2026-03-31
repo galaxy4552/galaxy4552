@@ -18,5 +18,4 @@
             <br>matlab
         </td>
 
-### Pipeowl Model
-#### 🤗 Model on Hugging Face - [https://huggingface.co/WangKaiLin](https://huggingface.co/WangKaiLin)
+#### 🤗 Pipeowl Model on Hugging Face 🦉 - [https://huggingface.co/WangKaiLin](https://huggingface.co/WangKaiLin)
